@@ -1,1 +1,1 @@
-# canny-no-inbuilt-function
+# canny-with-no-inbuilt-function
