@@ -1,7 +1,7 @@
 # Canny Edge Detector
 Implementation of Canny Edge Detection algorithm from scratch in MATLAB
 <p align="center">
-  <img src="images/example_image.png" width="400">
+  <img src="images/example_image.png" width="800">
 </p>
 
 ## Contents
@@ -10,6 +10,7 @@ Implementation of Canny Edge Detection algorithm from scratch in MATLAB
 * [Setup](#setup)
 * [Repository files](#repository-files)
 * [Report](#report)
+* [Observations](#observations)
 * [What did I learn](#what-did-i-learn)
 
 ## Overview
@@ -23,18 +24,40 @@ Windows 10<br>
 MATLAB Software
 
 ## Repository files
-emotion_detection_text_dataset  : contains dataset (both original and after pre processing)
-<br>saved_model_text_classification : saved TensorFlow model
-<br>emotion_detection_2.ipnyb       : jupyter notebook 
-<br>model_layers.png                : image for training model used
-<br>text_cleaning.py                : custom python function to clean data for efficient tokanization
+canny_edge.m  : MATLAB code of the project
+<br>edge detection report : details of the project
+<br>images : images for README file
+<br>observation_images : images in observation section of README
 <br>
 
 ## Report
 A detailed report is given in the file "edge detection report.pdf"
 <p align="center">
-  <img src="images/report_image.png" width="400">
+  <img src="images/report_image.png" width="800">
 </p>
+
+## Observations
+<p align="center">
+  <img src="observation_images/chess.jpeg" width="400">
+  <img src="observation_images/2.jpg" width="400">
+</p>
+<p align="center">
+  <img src="observation_images/building.jfif" width="400">
+  <img src="observation_images/1.jpg" width="400">
+</p>
+<p align="center">
+  <img src="observation_images/rgb_boxes.jpg" width="400">
+  <img src="observation_images/3.jpg" width="400">
+</p>
+<p align="center">
+  <img src="observation_images/shapes.jpg" width="400">
+  <img src="observation_images/4.jpg" width="400">
+</p>
+<p align="center">
+  <img src="observation_images/window.jpeg" width="400">
+  <img src="observation_images/6.jpg" width="400">
+</p>
+
 
 ## What did I learn?
 * Gaussian Blur
